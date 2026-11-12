@@ -193,4 +193,4 @@ This repository serves as the official landing page for Home Education. The soft
 **Get the most recent version of Home Education today!**
 
 ---
-**Last updated:** 2026-11-11 23:19:19 UTC
+**Last updated:** 2026-11-12 05:55:06 UTC
